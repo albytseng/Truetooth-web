@@ -6,3 +6,16 @@
 a {
   color: #504EFF;
 }
+
+a:hover, a:focus {
+    color: #6462FF;
+    font-weight: normal;
+}
+
+a small {
+    color: #808AE5;
+}
+
+a:hover small {
+    color: #949CE7;
+}
