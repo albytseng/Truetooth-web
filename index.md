@@ -2,7 +2,7 @@
 html_title: "Misplaced: Find Your Bluetooth Devices"
 ---
 
-## Find your Bluetooth devices 🔍
+# Find your Bluetooth devices 🔍
 
 - ⚡️ Unlimited searches
 - 😌 Ad-free experience
@@ -10,13 +10,13 @@ html_title: "Misplaced: Find Your Bluetooth Devices"
 
 ---
 
-### FAQs ⭐️
+# FAQs ⭐️
 
-#### 1. How does this app work?
+## 1. How does this app work?
 
 This app helps you find your device by tracking its signal strength. By moving around incrementally, you can see your device's signal strength increase or decrease. Once its signal strength indicates that you are within reaching distance of it, start looking around for it! 👌
 
-#### 2. Why isn't my device listed?
+## 2. Why isn't my device listed?
 
 There are several possible reasons for why this app can't detect any signals from your device.
 
