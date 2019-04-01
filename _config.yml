@@ -4,6 +4,6 @@ logo: assets/images/site-logo.png
 studio_name: Heartable
 studio_url: "https://heartable.io"
 
+privacy_policy_url: privacy-policy
+
 theme: jekyll-theme-minimal
-
-
