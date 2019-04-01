@@ -36,7 +36,7 @@ body {
 }
 
 a {
-  color: #504EFF;
+    color: #504EFF;
 }
 
 a:hover, a:focus {
@@ -50,4 +50,8 @@ a small {
 
 a:hover small {
     color: #949CE7;
+}
+
+header img {
+    border-radius: 20px;
 }
