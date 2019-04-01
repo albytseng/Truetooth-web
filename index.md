@@ -1,3 +1,7 @@
+---
+html_title: "Misplaced: Find Your Bluetooth Devices"
+---
+
 # Find your Bluetooth devices 🔍
 
 - ⚡️ Unlimited searches
