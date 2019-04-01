@@ -1,6 +1,6 @@
 # Find your Bluetooth devices 🔍
 
-- ✨ Unlimited searches
+- ⚡️ Unlimited searches
 - 😌 Ad-free experience
 - 🔥 One-time fee, lifetime access
 
@@ -16,6 +16,9 @@ This app helps you find your device by tracking its signal strength. By moving a
 
 There are several possible reasons for why this app can't detect any signals from your device.
 
-- A device may not emit signals if it's connected or paired to another app or device. 💡 **Make sure your device is disconnected and unpaired.**
-- Signals may be obstructed or weakened by large objects. 💡 **Move around walls and large furnitures.**
-- Signals may be out of range. 💡 **Walk toward other areas.**
+- A device may not emit signals if:
+  - It's connected or paired to another app or device. **Make sure no apps or devices are connected or paired to your device.**
+  - It's being charged.
+  - It's powered off.
+- Signals may be obstructed or weakened by large objects. **Move around walls and large furnitures.**
+- Signals may be out of range. **Walk toward other areas.**
