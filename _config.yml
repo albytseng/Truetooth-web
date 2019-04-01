@@ -1,6 +1,8 @@
 title: Misplaced
-logo: assets/images/site-logo.png  
+logo: assets/images/site-logo.png
 
+studio_name: Heartable
+studio_url: "https://heartable.io"
 
 theme: jekyll-theme-minimal
 
