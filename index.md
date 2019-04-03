@@ -26,3 +26,7 @@ There are several possible reasons for why this app can't detect any signals fro
   - It's powered off.
 - Signals may be obstructed or weakened by large objects. **Move around walls and large furnitures.**
 - Signals may be out of range. **Walk toward other areas.**
+
+## 3. Further questions?
+
+Feel free to email any further questions to hello@misplaced.app.
