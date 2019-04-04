@@ -28,7 +28,7 @@ There are several possible reasons for why this app can't detect any signals fro
   - It's being charged. **As you look around, also look for your device's charging equipment.**
   - It's powered off.
 - Signals may be obstructed or weakened by large objects. **Move around walls and large furniture.**
-- Signals may be out of range. **Exlore areas out of your vicinity.**
+- Signals may be out of range. **Exlore areas outside of your vicinity.**
 
 ## 3. Further questions?
 
