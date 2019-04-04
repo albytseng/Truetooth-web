@@ -16,7 +16,7 @@ html_title: "Misplaced: Find Your Bluetooth Devices"
 
 This app helps you find your device by tracking its signal strength.
 
-1. **Walk around your vicinity.** As you do so, you can see your device's signal strength increase or decrease on the display. 2. **Look around for your device.** Once your device's signal strength indicates that you are within reaching distance, start looking in your surroundings for it! 👌
+1. **Walk around your vicinity.** As you do so, you can see your device's signal strength increase or decrease on the display. 1. **Look around for your device.** Once your device's signal strength indicates that you are within reaching distance, start looking in your surroundings for it! 👌
 
 ## 2. Why isn't my device listed?
 
